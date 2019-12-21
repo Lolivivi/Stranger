@@ -26,8 +26,8 @@ body{
     margin-top: 50px;
 }
 #users{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     margin:150px auto;
     position: relative;
     transform:perspective(800px) rotateY(60deg) rotateX(-45deg);
@@ -60,26 +60,26 @@ body{
 }
 #link1{
     background-color: deepskyblue;   
-    transform:translateZ(150px);
+    transform:translateZ(125px);
 }
 #link2{
-    transform:translateX(-150px) rotateY(90deg);
+    transform:translateX(-125px) rotateY(90deg);
     background: url(../images/index/photo2.JPG) no-repeat;
     background-size: 105%;
 }
 #link3{
     background-color: gold;   
-    transform:translateZ(-150px);
+    transform:translateZ(-125px);
 }
 #link4{
     background-color: gold;   
-    transform:translateX(150px) rotateY(90deg);
+    transform:translateX(125px) rotateY(90deg);
 }
 #link5{
     background-color: green;   
-    transform:translateY(-150px) rotateX(90deg);
+    transform:translateY(-125px) rotateX(90deg);
 }
 #link6{
     background-color: #6633FF;   
-    transform:translateY(150px) rotateX(90deg);
+    transform:translateY(125px) rotateX(90deg);
 }

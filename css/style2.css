@@ -26,9 +26,10 @@ body{
     height: 450px;
     border-radius: 2%;
     background-color: #fff;
-    position: relative;
+    /* position: relative;
     top: 120px;
-    left: 570px;
+    left: 570px; */
+    margin: 8% auto;
     opacity: 0;
 }
 .photo>img{
@@ -64,7 +65,7 @@ body{
     background-size: 20%;
 }
 #tail{
-    margin-top: 220px;
+    margin-top: 8%;
     opacity: 0;
 }
 .copyright>li{
