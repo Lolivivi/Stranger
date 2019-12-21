@@ -58,9 +58,10 @@ body{
 .link:hover>.hidden{
     display: block;
 }
-#link1{
-    background-color: deepskyblue;   
+#link1{   
     transform:translateZ(125px);
+    background: url(../images/index/photo1.jpg) no-repeat;
+    background-size: 100%;
 }
 #link2{
     transform:translateX(-125px) rotateY(90deg);
