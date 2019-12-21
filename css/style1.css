@@ -71,15 +71,16 @@ body{
     background-color: gold;   
     transform:translateZ(-125px);
 }
-#link4{
-    background-color: gold;   
+#link4{  
     transform:translateX(125px) rotateY(90deg);
+    background: url(../images/index/photo4.jpg) no-repeat;
+    background-size: 100%;
 }
 #link5{
-    background-color: green;   
+    /* background-color: green;    */
     transform:translateY(-125px) rotateX(90deg);
 }
 #link6{
-    background-color: #6633FF;   
+    /* background-color: #6633FF;    */
     transform:translateY(125px) rotateX(90deg);
 }
