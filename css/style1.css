@@ -61,7 +61,7 @@ body{
 #link1{   
     transform:translateZ(125px);
     background: url(../images/index/photo1.jpg) no-repeat;
-    background-size: 100%;
+    background-size: 105%;
 }
 #link2{
     transform:translateX(-125px) rotateY(90deg);
