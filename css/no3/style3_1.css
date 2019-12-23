@@ -9,8 +9,8 @@
     overflow: hidden;
     z-index: -1; 
 }
-.pic{
-    width: 100%;
+.pic>img{
+    width: 120%;
     height: 100%;
 }
 ul,li{
