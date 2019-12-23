@@ -68,9 +68,10 @@ body{
     background: url(../images/index/photo2.JPG) no-repeat;
     background-size: 105%;
 }
-#link3{
-    background-color: gold;   
+#link3{   
     transform:translateZ(-125px);
+    background: url(../images/index/photo3.jpg) no-repeat;
+    background-size: 100%;
 }
 #link4{  
     transform:translateX(125px) rotateY(90deg);
